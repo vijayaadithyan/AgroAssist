@@ -3,11 +3,6 @@
   <img src = "images/logo.png" width = "50%">
 </p>
 
-
-
-[![Docker](https://github.com/sanjay-thiyagarajan/AgroAssist/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/sanjay-thiyagarajan/AgroAssist/actions/workflows/docker-publish.yml)  [![](https://img.shields.io/badge/heroku-deployed-green)](https://agroassist.herokuapp.com/)
-
-
 ## What is it ? 
 AgroAssist aims to leverage deep-learning to help farmers diagnose their crops and then seamlessly connect them to experts for further assistance through HubSpot CMS + CRM.  
 
